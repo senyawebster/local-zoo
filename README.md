@@ -1,12 +1,12 @@
 # _Local Zoo_
 
-#### _Add short blurb here... 10.27.2017_
+#### _Animal registry app using AngularJS 10.27.2017_
 
 #### By _Senya Webster_
 
 ## Description
 
-_Add description here..._
+_This is a small webapp that enables a user to register animals to a database and enter their name, species, age, location, etc. The app uses the AngularJS 2 Javascript framework._
 
 
 ## As a user...
@@ -32,9 +32,9 @@ _Add description here..._
 
 ## Feature Wishlist
 
-* ...
-* ...
-* ...
+* Log time spent in location, or time in captivity, or if not from the wild, to say so
+* Health information, such as past checkups, etc
+* Suggestions?
 
 ## Setup/Installation Requirements
 
@@ -42,15 +42,13 @@ _Add description here..._
 
 2. _`$ cd local-zoo/`_
 
-3. _asdf_
+3. _`$ npm install`_
 
-4. _`$ npm install`_
+4. _`$ bower install`_
 
-5. _`$ bower install`_
+5. _`$ gulp build`_
 
-6. _`$ gulp build`_
-
-7. _`$ gulp serve`_
+6. _`$ gulp serve`_
 
 ## Support and contact details
 
